@@ -1,4 +1,7 @@
 # No Man's Sky: Открытие всех наград за экспедиции / No Man's Sky: Opening All Expedition Rewards
+Здесь все экспедиции до 11
+There all expeditions to 11
+
 Этот репозиторий содержит код, который поможет вам автоматизировать процесс открытия всех наград за экспедиции в игре No Man's Sky.
 This repository contains code that will help you automate the process of opening all expedition rewards in No Man's Sky.
 
